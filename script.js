@@ -5,6 +5,6 @@
 
 //console.log(cart)
 
-let nome = 'Willian Leal'
+let nome = 'Willian Silva Leal'
 console.log('O nome informado e ' + nome)
 
