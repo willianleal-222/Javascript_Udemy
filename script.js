@@ -5,5 +5,3 @@ console.log(name, age)
 name = 'joao'
 age = 20
 console.log(name, age)
-
-const calctax = 0.7
