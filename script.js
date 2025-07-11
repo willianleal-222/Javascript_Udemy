@@ -1,10 +1,9 @@
-// Arrays (Metodos)
+let name = 'Willian'
+let age = 35
+console.log(name, age)
 
-//let cart = ['Agua', 'Arroz', 'Carne', 'Feijao']
-//let numbers = [10, 20, 33, 40, 5, 13, true]
+name = 'joao'
+age = 20
+console.log(name, age)
 
-//console.log(cart)
-
-let nome = 'Willian Leal'
-console.log('O nome informado e ' + nome)
-
+const calctax = 0.7
